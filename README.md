@@ -1,3 +1,7 @@
+This is a fork of [CodeBicycle's fork](https://github.com/codebicycle/videospeed) of the [Chromium upstream](https://github.com/igrigorik/videospeed).
+
+This fork is available on AMO here: https://addons.mozilla.org/firefox/addon/video-speed-controller-new/
+
 # The science of accelerated playback
 
 **TL;DR: faster playback translates to better engagement and retention.**
@@ -28,8 +32,6 @@ need an easy way to accelerate the video, slow it down, and quickly rewind the
 last point to listen to it a few more times.
 
 ![Player](https://cloud.githubusercontent.com/assets/2400185/24076745/5723e6ae-0c41-11e7-820c-1d8e814a2888.png)
-
-#### *Install [Chrome](https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk) or [Firefox](https://addons.mozilla.org/en-us/firefox/addon/videospeed/) Extension*
 
 \*\* Once the extension is installed simply navigate to any page that offers
 HTML5 video ([example](http://www.youtube.com/watch?v=E9FxNzv1Tr8)), and you'll
